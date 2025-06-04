@@ -7,6 +7,4 @@ import com.henrique.udm.entities.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
 
-	
-	
 }
